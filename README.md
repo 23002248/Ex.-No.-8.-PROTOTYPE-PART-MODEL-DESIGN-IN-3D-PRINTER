@@ -1,6 +1,6 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 22.11.2023
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -48,7 +48,7 @@
 
 
 ### Name:stephen raj.y
-### Register Number:23002248
+### Register Number:212223230217
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
